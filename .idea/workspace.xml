@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02a28ed1-8078-4600-bf29-373b74f24443" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/daoHybernate/UserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/daoHybernate/UserProfileDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/daoImple/UserDaoImple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/daoImple/UserPImple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/daoImple/userDimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/entities/BaseEntities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/entities/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/entities/Userdetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/konfig/ConfigHybernate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/konfig/Configjdbs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/serviseimple/imple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java12/serviseimple/servise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/java12/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bwF27D4LmT88dQ6Ik5JUNirGps" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-f644763e9732-d86f2a68" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02a28ed1-8078-4600-bf29-373b74f24443" name="Changes" comment="" />
+      <created>1707118025853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707118025853</updated>
+      <workItem from="1707118026930" duration="2042000" />
+      <workItem from="1707120149275" duration="1755000" />
+      <workItem from="1707121964913" duration="94000" />
+      <workItem from="1707122080100" duration="43000" />
+      <workItem from="1707122146466" duration="3787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
